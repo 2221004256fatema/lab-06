@@ -1,0 +1,91 @@
+---
+title: "lab-06-simpsons.Rmd"
+author: "Musab Isah (adopted from datasciencebox.org)"
+date: "11 May 2022"
+output: pdf_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Packages
+
+```{r load_libraries, message=FALSE}
+library(tidyverse) 
+library(mosaicData)
+```
+
+
+## Exercises
+
+
+1.  
+```{r whickam}
+
+```
+    
+Your answer:
+
+2.  
+```{r observations}
+
+```
+
+Your answer;
+
+3.  
+
+```{r number_variables}
+
+```
+
+Your answer:  
+
+```{r var_type}
+
+```
+
+Your answer: 
+
+```{r plot_outcome}
+
+```
+
+
+```{r plot_smoker}
+
+```
+
+```{r plot_age}
+
+```
+
+
+4. 
+
+```{r plot_smokeVSincome_1}
+
+```
+
+Knit, commit, and push to github.
+
+5. 
+
+```{r plot_smokeVSincome_2}
+
+```
+
+6.
+
+```{r age_cat}
+
+```
+
+7. 
+
+```{r plot_smokeVSincome_3}
+
+```
+
+Knit, commit, and push to github.
